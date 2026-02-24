@@ -1,0 +1,5 @@
+{
+  "name": "Nexgen Data AI Directory",
+  "description": "A local business and AI services directory clone inspired by Justdial, powered by Nexgen Data AI.",
+  "requestFramePermissions": ["geolocation"]
+}
